@@ -65,6 +65,7 @@ clientSecret: 2a3b0f1a791270d844d2b2edd1e5ee579168b363    #生成的clientSecret
 repo: xieyunmeng.github.io    #仓库名称
 owner: xieyunmeng    #github用户名
 admin: xieyunmeng
+id: window.location.pathname
 distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
