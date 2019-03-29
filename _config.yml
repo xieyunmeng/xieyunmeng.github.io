@@ -18,7 +18,7 @@ sidebar-avatar: /img/WechatIMG216.jpeg      # use absolute URL, seeing it's used
 
 # SNS settings
 RSS: false
-weibo_username:     朵儿不瘦下来就别想改名了
+# weibo_username:     朵儿不瘦下来就别想改名了
 github_username:    xieyunmeng
 facebook_username:  谢云梦
 linkedin_username:  yunmeng-xie-37908216b/
