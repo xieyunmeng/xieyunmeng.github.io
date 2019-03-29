@@ -57,4 +57,14 @@ kramdown:
 # Disqus（https://disqus.com/）
 disqus_username: yunmengxie
 
+# Gitalk
+gitalk:
+enable: true    #是否开启Gitalk评论
+clientID: dca97c8c090049a4897f                            #生成的clientID
+clientSecret: 2a3b0f1a791270d844d2b2edd1e5ee579168b363    #生成的clientSecret
+repo: xieyunmeng.github.io    #仓库名称
+owner: xieyunmeng    #github用户名
+admin: xieyunmeng
+distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 
