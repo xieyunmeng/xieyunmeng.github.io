@@ -11,4 +11,6 @@ tags:
     - Computer Networks
 ---
 
-# DoS Attack
+# DDoS Attack
+#### Dos
+First, Let's talk about Dos instead of DDos. Dos, Denial of Service. It is not access or theft of information or services, instead, its goal is to stop the service from operating. In other words, deny service to legitimate users.
